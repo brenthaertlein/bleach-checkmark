@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bleach-checkmark/static/css/main.31448a68.chunk.css",
+    "main.js": "/bleach-checkmark/static/js/main.3eeb1cc0.chunk.js",
+    "main.js.map": "/bleach-checkmark/static/js/main.3eeb1cc0.chunk.js.map",
+    "runtime-main.js": "/bleach-checkmark/static/js/runtime-main.0fbab572.js",
+    "runtime-main.js.map": "/bleach-checkmark/static/js/runtime-main.0fbab572.js.map",
+    "static/css/2.5ca89f7f.chunk.css": "/bleach-checkmark/static/css/2.5ca89f7f.chunk.css",
+    "static/js/2.cd76bfd9.chunk.js": "/bleach-checkmark/static/js/2.cd76bfd9.chunk.js",
+    "static/js/2.cd76bfd9.chunk.js.map": "/bleach-checkmark/static/js/2.cd76bfd9.chunk.js.map",
+    "static/js/3.5f2c9325.chunk.js": "/bleach-checkmark/static/js/3.5f2c9325.chunk.js",
+    "static/js/3.5f2c9325.chunk.js.map": "/bleach-checkmark/static/js/3.5f2c9325.chunk.js.map",
+    "index.html": "/bleach-checkmark/index.html",
+    "static/css/2.5ca89f7f.chunk.css.map": "/bleach-checkmark/static/css/2.5ca89f7f.chunk.css.map",
+    "static/css/main.31448a68.chunk.css.map": "/bleach-checkmark/static/css/main.31448a68.chunk.css.map",
+    "static/js/2.cd76bfd9.chunk.js.LICENSE.txt": "/bleach-checkmark/static/js/2.cd76bfd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fbab572.js",
+    "static/css/2.5ca89f7f.chunk.css",
+    "static/js/2.cd76bfd9.chunk.js",
+    "static/css/main.31448a68.chunk.css",
+    "static/js/main.3eeb1cc0.chunk.js"
+  ]
+}
